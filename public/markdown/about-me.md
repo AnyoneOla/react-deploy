@@ -2,7 +2,7 @@
 
 ## Biography
 
-Hey there!👋 I am a Software Engineering student at [Accenture Solutions pvt ltd](https://www.accenture.com/in-en) in department of [Metaverse](https://www.accenture.com/in-en/services/metaverse-index)🌐. Previously, I have completed my batchlor's degree at [L.D. College of Engineering](https://ldce.ac.in/) in 2022.
+Hey there!👋 I am a Software Engineering student at [Accenture Solutions pvt ltd](https://www.accenture.com/in-en) in department of [Metaverse](https://www.accenture.com/in-en/services/metaverse-index)🌐. Previously, I have completed my bachelors degree at [L.D. College of Engineering](https://ldce.ac.in/) in 2022.
 
 Balancing research 📚 and engineering 💻 is my current pursuit, seeking harmony between innovation and implementation. 
 
